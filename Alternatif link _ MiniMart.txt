@@ -1,0 +1,21 @@
+{ MiniMart }
+
+Jika anda gagal men-download di website ini, maka anda juga bisa men-download melalui link-link alternatif berikut ini :
+
+Google Drive 1 : https://drive.google.com/drive/folders/1PaQlgJXG2Bh4mcA_orOkF021wOwsgT_6?usp=sharing
+
+Google Drive 2 : https://drive.google.com/drive/folders/0B3ivoWDOTq6oMGpZNzBhaXNCT1U?resourcekey=0-YQFODJpegHF506k4lUSalw&usp=sharing
+
+One Drive : https://1drv.ms/u/s!AsSIzq5epsBla1YNzv2x5XPR9is?e=sumFmY
+
+Mediafire : http://www.mediafire.com/folder/zsdlrzux81y22/Software_Public
+
+Box : https://app.box.com/s/xcd4wbc5r4k2gna6c5e0q1ilcbsbhv8a
+
+Dropbox : https://www.dropbox.com/sh/dz9hunzaemcs8tg/AABvXZmtY-IruyUZsnKbvY4Qa?dl=0
+
+4Shared : https://www.4shared.com/folder/oDUOed09/MiniMart.html
+
+Sourceforge : https://sourceforge.net/projects/minimart
+
+Github : https://github.com/helloyud/MiniMart
